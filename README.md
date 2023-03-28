@@ -51,5 +51,5 @@ You need to have atleast Python 3.8 and all of the above modules for this model.
 4. Then I trained the model using diffrent techniques with XGBRegressor being the most accurate.
 5. Then I created the final Pickle file "pipe" which is the trained model.
 6. Then I created a fairly simple WebApp using StreamLit.
-7. Use "streamlit run App.py" command inside the "App" folder.
-8. The App will run on your LocalHost.
+7. It is Uploaded on StreamLit Cloud. You can use it here
+   "https://divyanshu1510-t20-score-predictor-app-ws5a2e.streamlit.app/"
