@@ -95,7 +95,6 @@ psutil==5.9.4
 pure-eval==0.2.2
 py==1.11.0
 pyarrow==11.0.0
-PyAudio @ file:///C:/Users/hp/pipwin/PyAudio-0.2.11-cp310-cp310-win_amd64.whl
 pycodestyle==2.10.0
 pycparser==2.21
 pydantic==1.10.7
