@@ -104,7 +104,6 @@ Pygments==2.14.0
 pyjsparser==2.7.1
 Pympler==1.0.1
 pyparsing==3.0.9
-pypiwin32==223
 PyPrind==2.11.3
 pyrsistent==0.19.3
 pySmartDL==1.3.4
