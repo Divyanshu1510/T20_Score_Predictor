@@ -31,7 +31,11 @@ This module requires:
 
 -   Pickle
 
--   SciKit -XGBRegressor -Pipeline
+-   SciKit
+
+-   XGBRegressor
+
+-   Pipeline
 
 -   StreamLit
 
@@ -53,3 +57,4 @@ You need to have atleast Python 3.8 and all of the above modules for this model.
 6. Then I created a fairly simple WebApp using StreamLit.
 7. It is Uploaded on StreamLit Cloud. You can use it here
    "https://divyanshu1510-t20-score-predictor-app-ws5a2e.streamlit.app/"
+8. The GitHub repo is at "https://github.com/Divyanshu1510/T20_Score_Predictor"
